@@ -1,0 +1,8 @@
+//
+// Created by beedz on 29.04.2024.
+//
+
+#ifndef MATH_MODELING_FINDING_X2_AND_X3_H
+#define MATH_MODELING_FINDING_X2_AND_X3_H
+
+#endif //MATH_MODELING_FINDING_X2_AND_X3_H
