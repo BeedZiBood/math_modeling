@@ -5,6 +5,6 @@
 
 namespace mashkin
 {
-    void solve_cubic_equation(std::vector< std::complex< double > >& x, double p1, double p2, double p3, double p4, double p5, double p6);
+    void solve_cubic_equation(std::vector< std::complex< double > >& x, std::complex< double > a, std::complex< double > b, std::complex< double > c, std::complex< double > d);
 }
 #endif
