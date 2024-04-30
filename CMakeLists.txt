@@ -10,4 +10,6 @@ add_executable(math_modeling
         comparison_between_doubles.h
         finding_x2_and_x3.cpp
         finding_x2_and_x3.h
+        extra_functions_for_course_work.cpp
+        extra_functions_for_course_work.h
 )
